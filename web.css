@@ -10,7 +10,9 @@ body {
 
 .dashboard {
     border:5px solid black;
-    float:left;
+    display:flex;
+    justify-content:center;
+    align-items:center;
     padding:0 0 500px 0;
     margin:0 0 0 350px;
 }
@@ -21,19 +23,25 @@ body {
 
 .budget {
     border:5px solid black;
-    float:left;
+    display:flex;
+    justify-content:center;
+    align-items:center;
     padding:0 0 500px 0;
 }
 
 .checkbook {
     border:5px solid black;
-    float:left;
+    display:flex;
+    justify-content:center;
+    align-items:center;
     padding:0 0 500px 0;
 }
 
 .money {
     border:5px solid black;
-    float:left;
+    display:flex;
+    justify-content:center;
+    align-items:center;
     padding:0 0 500px 0;
     
 }
