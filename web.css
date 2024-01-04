@@ -1,0 +1,43 @@
+.head {
+    padding: 0 0 0 550px;
+    background-color:lightgreen;
+
+}
+
+body {
+    min-height:100%;
+}
+
+.dashboard {
+    border:5px solid black;
+    float:left;
+    padding:0 0 500px 0;
+    margin:0 0 0 350px;
+}
+
+.info {
+    background-color:aquamarine;
+}
+
+.budget {
+    border:5px solid black;
+    float:left;
+    padding:0 0 500px 0;
+}
+
+.checkbook {
+    border:5px solid black;
+    float:left;
+    padding:0 0 500px 0;
+}
+
+.money {
+    border:5px solid black;
+    float:left;
+    padding:0 0 500px 0;
+    
+}
+
+#info {
+    background-color:aquamarine;
+}
